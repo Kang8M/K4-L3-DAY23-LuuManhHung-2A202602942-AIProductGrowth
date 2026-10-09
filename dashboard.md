@@ -1,6 +1,6 @@
 # OPERATING DASHBOARD — AI Trợ Lý Rà Soát Hợp Đồng Mua Bán Chung Cư
 
-**Loại mô hình:** B2B · **Cập nhật:** 09/10/2026 · Lưu Mạnh Hưng – 2A202602942 · *Số liệu giả định, xem README*
+**Loại mô hình:** B2B · **Cập nhật:** 09/10/2026 · Lưu Mạnh Hùng – 2A202602942 · *Số liệu giả định, xem README*
 **NORTH STAR:** Time-to-first-value (TTFV) — hiện tại 46 ngày — mục tiêu < 30 ngày
 
 ### Đèn báo sớm (Leading — nhìn hằng ngày/tuần)

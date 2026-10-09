@@ -1,6 +1,6 @@
 # Worksheet — AI Trợ Lý Rà Soát Hợp Đồng Mua Bán Chung Cư
 
-Họ tên: Lưu Mạnh Hưng · MSSV: 2A202602942 · Ngày làm: 09/10/2026
+Họ tên: Lưu Mạnh Hùng · MSSV: 2A202602942 · Ngày làm: 09/10/2026
 
 > ⚠️ **Số liệu giả định.** Sản phẩm chưa có số thật nên mọi số về mô hình tài chính, Cost/Job và pilot ("Chủ đầu tư A", "Chủ đầu tư B") đều là giả định để luyện bài. Benchmark [BM] lấy từ HANDBOOK §8, kiểm tra ngày 27/08/2026.
 
